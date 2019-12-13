@@ -1,0 +1,25 @@
+total 172
+drwxrwxr-x 2 dani dani  4096 dic 12 18:57 .
+drwxrwxr-x 9 dani dani  4096 dic 12 13:17 ..
+-rwxrwxr-x 1 dani dani 12792 dic  7 13:09 a_pipe
+-rw-rw-r-- 1 dani dani  1794 nov 26 13:20 a_pipe.c
+-rwxrwxr-x 1 dani dani  8520 nov 25 21:01 cat_redir
+-rw-rw-r-- 1 dani dani   517 nov 25 21:01 cat_redir.c
+-rwxrwxr-x 1 dani dani  8480 dic  7 12:21 descriptor
+-rw-rw-r-- 1 dani dani   588 nov 25 18:20 descriptor.c
+-rwxrwxr-x 1 dani dani  8400 dic  7 12:26 descriptor_out
+-rw-rw-r-- 1 dani dani  8400 nov 25 18:20 descriptor_output
+-rw-rw-r-- 1 dani dani   760 nov 25 18:20 descriptor_output.c
+-rw-rw-r-- 1 dani dani  2457 dic  7 13:27 dos_tubs.c
+-rw-rw-r-- 1 dani dani    71 dic 12 17:44 .~lock.PL06 Cuestiones.docx#
+-rw-rw-r-- 1 dani dani     0 dic  7 12:58 ls
+-rwx------ 1 dani dani  1251 dic  7 12:59 ls_eixida.txt
+-rwxrwxr-x 1 dani dani  8512 dic 12 18:57 ls_redir
+-rw-rw-r-- 1 dani dani   523 nov 25 20:49 ls_redir.c
+-rwx------ 1 dani dani    47 dic 12 18:26 messages.txt
+-rwx------ 1 dani dani    23 dic 12 18:51 output.txt
+-rw-rw-r-- 1 dani dani 12505 dic  7 13:13 PL06 Cuestiones.docx
+-rwxrwxr-x 1 dani dani  8656 dic 12 18:51 redir_out
+-rw-rw-r-- 1 dani dani   622 nov 25 19:27 redir_output.c
+-rwxrwxr-x 1 dani dani  8560 dic 12 18:25 share
+-rw-rw-r-- 1 dani dani   693 nov 25 18:19 share_file.c
